@@ -70,7 +70,7 @@
     <string name="search_hint">Search products, crafts, food…</string>
     <string name="seller_name_hint">Your Name</string>
     <string name="seller_phone_hint">Your Phone Number</string>
-    <string name="tagline">Your Hyper-Local Marketplace</string>
+    <string name="tagline">🛒 Hyper-Local Marketplace</string>
     <string name="vocal_for_local">🇮🇳 Vocal for Local</string>
     <string name="whatsapp_seller">💬 WhatsApp</string>
     <style name="ButtonOutlined" parent="Widget.MaterialComponents.Button.OutlinedButton">

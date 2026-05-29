@@ -2215,7 +2215,7 @@
     <string description="Title of the side sheet&apos;s accessibility pane that is spoken by TalkBack when the side sheet appears on screen. [CHAR_LIMIT=NONE]" name="side_sheet_accessibility_pane_title">Side Sheet</string>
     <string name="side_sheet_behavior" translatable="false">com.google.android.material.sidesheet.SideSheetBehavior</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tagline">Your Hyper-Local Marketplace</string>
+    <string name="tagline">🛒 Hyper-Local Marketplace</string>
     <string name="vocal_for_local">🇮🇳 Vocal for Local</string>
     <string name="whatsapp_seller">💬 WhatsApp</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Halli-Santhe</string>
+    <string name="tagline">🛒 Hyper-Local Marketplace</string>
+    <string name="search_hint">Search products, crafts, food…</string>
+    <string name="add_product">List a Product</string>
+    <string name="empty_state_title">No Products Yet</string>
+    <string name="empty_state_desc">Be the first artisan to list your handmade goods!</string>
+    <string name="contact_seller">📞 Call Seller</string>
+    <string name="whatsapp_seller">💬 WhatsApp</string>
+    <string name="product_name_hint">Product Name (e.g. Channapatna Toy)</string>
+    <string name="price_hint">Price (₹)</string>
+    <string name="description_hint">Description (optional)</string>
+    <string name="seller_name_hint">Your Name</string>
+    <string name="seller_phone_hint">Your Phone Number</string>
+    <string name="pick_image">📷 Add Photo</string>
+    <string name="list_product">List My Product</string>
+    <string name="vocal_for_local">🇮🇳 Vocal for Local</string>
+    <string name="price_format">₹%s</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="listing_product">Listing Product…</string>
+    <string name="list_product_btn">List Product</string>
+    <string name="error_name_required">Product name required</string>
+    <string name="error_price_required">Price required</string>
+    <string name="error_seller_name_required">Your name required</string>
+    <string name="error_phone_required">Valid phone required</string>
+    <string name="error_invalid_price">Invalid price</string>
+    <string name="product_success">Product listed successfully! 🎉</string>
+    <string name="error_load_products">Error loading products</string>
+    <string name="error_no_contact">Seller contact not available</string>
+    <string name="error_no_whatsapp">WhatsApp not installed</string>
+</resources>
